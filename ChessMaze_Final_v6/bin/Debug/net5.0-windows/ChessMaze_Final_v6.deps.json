@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ChessMaze_Final_v6/1.0.0": {
+        "runtime": {
+          "ChessMaze_Final_v6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChessMaze_Final_v6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

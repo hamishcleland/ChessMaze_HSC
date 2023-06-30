@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3q4Wf93xMsF+xxRuQb/9gMOaTdLmdpdOg3TKCunU1FXmwi4LQLUqOdC6jM/OKVfQYf0WyJJERmXKRr4UrLgwWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hac0535\\OneDrive - Ara Institute of Canterbury\\Documents\\2022\\Semester 2\\BCDE222\\repo\\ChessMaze_Final_v6\\ChessMaze_Final_v6\\ChessMaze_Final_v6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hac0535\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hac0535\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hac0535\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hac0535\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
